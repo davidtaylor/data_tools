@@ -1,0 +1,5 @@
+**.DS_Store
+**.sw*
+config.php
+.htpasswd
+password.file
